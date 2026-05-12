@@ -19,29 +19,25 @@ Click on any link below to register or click here as well: [https://bit.ly/hacka
 
 On the linked page scroll down and enter your information!
 
-**[Early Bird Registration by May 1](https://bit.ly/hackagtech)** 
+**[Registration by June 1](https://bit.ly/hackagtech)** 
 - For all participants to join the Virtual Planning Session, and help create team ideas.
-- For students interested in sponsorship to ASABE AIM and the Hackathon.
-
-**[Registration by July 1](https://bit.ly/hackagtech)** 
-- For all participants for food and supplies planning on the main Hackathon Day.
 
 **[Late or onsite Registration](https://bit.ly/hackagtech)**
 - Sign-up and join a team! It is never too late to contribute and join the fun!
 - If you register onsite at AIM or after July 1, you will need to join a team that has already formed. 
-- Lunch and refreshments on the main Hackathon day cannot be guaranteed. 
 
 After registration, you will join the Agricultural Informatics Learning Community Slack Workspace. We will be updating this site and sending you more information as we get closer to the event.
 
 ### Virtual Sessions
 
-**May 15th, 11am - Noon Central Time, online in WorkAdventure**
+**June TBD**
 
-Come find your herd! Ask questions
+Come find your herd! Ask questions.
+Learn about available tools.
 
-**June 20th, 3pm - 4pm Central Time, online in WorkAdventure**
+**July TBD (Likely 9-10)**
 
-Finalize your project teams
+Last minute check to ensure you are ready for the hackathon.
 
 ### Collaboration Tools and Links
 
@@ -52,7 +48,7 @@ Finalize your project teams
 ## The Hackathon
 ### Hackathon Kick-Off (Hack-Day)
 
-**Sun, July 28, 8am to 4.30pm Pacific Time (PT)**, Anaheim, California @ ASABE Conference. 
+**Sun, July 12, 8am to 4.30pm Eastern Time (ET)**, Indianapolis, Indiana @ ASABE Conference. 
 
 **Location:** Hack-a-thon Area in the Exhibit Hall
 
@@ -67,7 +63,7 @@ Finalize your project teams
 | 4pm | Group Report out | Teams Report on Progress. |
 
 ### Hackathon Work (write, test, write, test, write, test...)
-**Mon, July 29 to Wed, July 31, 10am Pacific Time**, Anaheim, California @ ASABE Conference. 
+**Mon, July 13 to Wed, July 15, 10am Eastern Time**, Indianapolis, Indiana @ ASABE Conference. 
 
 **Location:** Hack-a-thon Area in the Exhibit Hall
 
@@ -76,9 +72,9 @@ The Hack-a-thon teams will be working on their designs and developing them throu
 See something interesting? Feel free to ask the team how you help! We can always use more participants. 
 
 ### Final Demos
-**Wed, July 31, 10:15am to 12:15pm Pacific Time**, Anaheim, California @ ASABE Conference. 
+**Wed, July 15, 10:15am to 12:15pm Eastern Time**, Indianapolis, Indiana @ ASABE Conference. 
 
-**Location:** Hack-a-thon Area in the Exhibit Hall
+**Location:** Center Stage Area in the Exhibit Hall
 
 **You will present your final deliverable.** Winners will be announced after a short pause to tally votes.
 
