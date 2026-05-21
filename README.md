@@ -15,14 +15,14 @@ An interest in digital agriculture is expected, with minimal programming experie
 
 ### Registration Dates & Links
 
-Click on any link below to register or click here as well: [https://bit.ly/hackagtech](https://bit.ly/hackagtech)
+Click on any link below to register or click here as well: [https://airtable.com/appyzTuWoxcUjaTWA/shrDIlV6Mu2JTopFK](https://airtable.com/appyzTuWoxcUjaTWA/shrDIlV6Mu2JTopFK)
 
 On the linked page scroll down and enter your information!
 
-**[Registration by June 1](https://bit.ly/hackagtech)** 
+**[Registration by June 1][https://airtable.com/appyzTuWoxcUjaTWA/shrDIlV6Mu2JTopFK](https://airtable.com/appyzTuWoxcUjaTWA/shrDIlV6Mu2JTopFK)** 
 - For all participants to join the Virtual Planning Session, and help create team ideas.
 
-**[Late or onsite Registration](https://bit.ly/hackagtech)**
+**[Late or onsite Registration]([https://airtable.com/appyzTuWoxcUjaTWA/shrDIlV6Mu2JTopFK](https://airtable.com/appyzTuWoxcUjaTWA/shrDIlV6Mu2JTopFK)**
 - Sign-up and join a team! It is never too late to contribute and join the fun!
 - If you register onsite at AIM or after July 1, you will need to join a team that has already formed. 
 
@@ -141,6 +141,10 @@ Genres of technology that may fit in this challenge area include:
 
 ## Organizers
 
+ASABE's P-132 Committee
+
+Current members include:
+
 Joe Dvorak, University of Kentucky
 
 Joseph Quansah, Tuskegee University
@@ -153,9 +157,19 @@ Dharmendra Saraswat, Purdue University
 
 Dennis Buckmaster, Purdue University
 
- Jim Krogmeier, Purdue University
+Jeff Sadler, Oklahoma State University
 
-Tanya Dvorak, University of Kentucky
+Christina Tucker, University of Illinois
+
+Aaron Etienne, Utah State University
+
+Austin Roepke, Blue River
+
+Vivian Vuong, University of California, Davis
+
+Upinder Kaur, Purdue University
+
+Harsh Pathak, Mississippi State University
 
 Souleymane Fall, Tuskegee University
 
