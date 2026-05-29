@@ -19,10 +19,10 @@ Click on any link below to register or click here as well: [https://airtable.com
 
 On the linked page scroll down and enter your information!
 
-**[Registration by June 1][https://airtable.com/appyzTuWoxcUjaTWA/shrDIlV6Mu2JTopFK](https://airtable.com/appyzTuWoxcUjaTWA/shrDIlV6Mu2JTopFK)** 
+**[Registration by June 1](https://airtable.com/appyzTuWoxcUjaTWA/shrDIlV6Mu2JTopFK)** 
 - For all participants to join the Virtual Planning Session, and help create team ideas.
 
-**[Late or onsite Registration]([https://airtable.com/appyzTuWoxcUjaTWA/shrDIlV6Mu2JTopFK](https://airtable.com/appyzTuWoxcUjaTWA/shrDIlV6Mu2JTopFK)**
+**[Late or onsite Registration](https://airtable.com/appyzTuWoxcUjaTWA/shrDIlV6Mu2JTopFK)**
 - Sign-up and join a team! It is never too late to contribute and join the fun!
 - If you register onsite at AIM or after July 1, you will need to join a team that has already formed. 
 
